@@ -593,7 +593,7 @@ SUM이 무엇을 반복해서 더했는가: 강의 301의 가격 100000을 2번,
 권장 경로:
 
 ```text
-assignments/chapter08/images/step09_over_aggregation.png
+
 ```
 
 `여기에 잘못된 합계와 올바른 합계를 비교한 화면을 삽입하세요.`
